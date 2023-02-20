@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     TextView textView;
     ImageView imageView;
 
-
+    // bransh master
     private float[] rotationMatrix = new float[9];
     private float[] arrAccelerometerSensor = new float[3];
     private float[] arrMagneticSensor = new float[3];
